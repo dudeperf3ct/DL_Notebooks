@@ -12,7 +12,7 @@
 
 
 
-|:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fire: PyTorch|:zap: Fastai|:fountain: Tensorflow|:tada: Demos|
+|:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fire: PyTorch|:zap: Fastai|:fountain: TF|:tada: Demos|
 | ------------- | ------------- |------------- |------------- | ------------- |------------- |------------- |
 |🎛️ Multi-Layer Perceptron|[Introduction to MLP](https://dudeperf3ct.github.io/mlp/mnist/2018/10/08/Force-of-Multi-Layer-Perceptron/)|[mlp_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/MLP/mnist_mlp_keras.ipynb)|[mlp_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/MLP/mnist_mlp_pytorch.ipynb)|[mlp_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/MLP/mnist_mlp_fastai.ipynb)|[mlp_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/MLP/mnist_mlp_tensorflow.ipynb)|-|
 |📸Convolutional Neural Networks|[Introduction to CNN](https://dudeperf3ct.github.io/cnn/mnist/2018/10/17/Force-of-Convolutional-Neural-Networks/)|[cnn_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/CNN/mnist_cnn_keras.ipynb)|[cnn_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/CNN/mnist_cnn_pytorch.ipynb)|[cnn_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/CNN/mnist_cnn_fastai.ipynb)|[cnn_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/CNN/mnist_cnn_tensorflow.ipynb)|-|
