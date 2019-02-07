@@ -1,4 +1,4 @@
-# DL_notebooks
+# Blog
 
 [![Colab](https://img.shields.io/badge/launch-Colab-orange.svg)](https://github.com/dudeperf3ct/DL_notebooks/master)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dudeperf3ct/DL_notebooks/master)
