@@ -20,13 +20,13 @@ Implementation: [VGG](https://arxiv.org/pdf/1409.1556.pdf)
 
 ### :fire: PyTorch
 
-Implementation: [Resnet](https://arxiv.org/pdf/1512.03385.pdf)
+Implementation: [Resnet-18](https://arxiv.org/pdf/1512.03385.pdf)
 
 ---
 
 ### :zap: Fastai
 
-Implementation: [Resnet](https://arxiv.org/pdf/1512.03385.pdf)
+Implementation: [Resnet-34](https://arxiv.org/pdf/1512.03385.pdf)
 
 ---
 
