@@ -1,4 +1,4 @@
-# :: YOLO v3
+# :metal: YOLO v3
 
 ### :books: Papers 
 
