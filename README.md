@@ -3,13 +3,11 @@
 [![Colab](https://img.shields.io/badge/launch-Colab-orange.svg)](https://github.com/dudeperf3ct/DL_notebooks/master)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dudeperf3ct/DL_notebooks/master)
 
-- [Blog](http://dudeperf3ct.github.io/) for introduction of different topics
+- [Blog](http://dudeperf3ct.github.io/)
 - Implementations of different topics in 4 different frameworks(almost) along with demos(some)
 
 
 ## Notebooks
-
-
 
 
 |:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fire: PyTorch|:zap: Fastai|:fountain: TF|:tada: Demos|
