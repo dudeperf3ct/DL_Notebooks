@@ -36,7 +36,7 @@ Code Credits: [mcleonard](https://github.com/mcleonard/pytorch-charRNN/blob/mast
 
 ---
 
-### Other Interesting Implemetations
+### Other Interesting Implementations
 
 [Cooking-Recipe](https://gist.github.com/nylki/1efbaa36635956d35bcc)
 
