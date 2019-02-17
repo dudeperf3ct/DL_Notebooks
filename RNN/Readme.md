@@ -9,11 +9,17 @@
 ### :cookie: Dataset 
 
 [Shakespeare](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt)
+
 [Nietzsche](https://s3.amazonaws.com/text-datasets/nietzsche.txt)
+
 [Jane Austen](http://www.gutenberg.org/files/31100/31100.txt)
+
 [Dictionary](http://www.gutenberg.org/cache/epub/29765/pg29765.txt)
+
 [Obama Speeches](https://raw.githubusercontent.com/samim23/obama-rnn/master/input.txt)
+
 [Trump Speeches](https://raw.githubusercontent.com/ryanmcdermott/trump-speeches/master/speeches.txt)
+
 [Tolstoy's Anna Karenina](https://raw.githubusercontent.com/mcleonard/pytorch-charRNN/master/data/anna.txt)
 
 ---
@@ -27,6 +33,24 @@ Code Credits: [Keras](https://github.com/keras-team/keras/blob/master/examples/l
 ### :fire: PyTorch
 
 Code Credits: [mcleonard](https://github.com/mcleonard/pytorch-charRNN/blob/master/TorchRNN.ipynb)
+
+---
+
+### Other Interesting Implemetations
+
+[Cooking-Recipe](https://gist.github.com/nylki/1efbaa36635956d35bcc)
+
+[Obama-RNN](https://medium.com/@samim/obama-rnn-machine-generated-political-speeches-c8abd18a2ea0)
+
+[Bible-RNN](https://twitter.com/RNN_Bible)
+
+[Folk-music](https://soundcloud.com/seaandsailor/sets/char-rnn-composes-irish-folk-music)
+
+[Learning Holiness](https://cpury.github.io/learning-holiness/)
+
+[AI Weirdness](http://aiweirdness.com/)
+
+[Auto-Generating Clickbait](https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/).
 
 ---
 
