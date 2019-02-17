@@ -2,7 +2,7 @@
 
 ### :pencil2: Blog 
 
-[Force of Convolutional Neural Networks](https://dudeperf3ct.github.io/rnn/2019/01/19/Force-of-Recurrent-Neural-Networks/)
+[Force of Recurrent Neural Networks](https://dudeperf3ct.github.io/rnn/2019/01/19/Force-of-Recurrent-Neural-Networks/)
 
 ---
 
