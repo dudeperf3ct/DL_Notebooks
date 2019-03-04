@@ -14,6 +14,12 @@
 
 ---
 
+### :cookie: Dataset 
+
+[IMDB dataset](https://www.kaggle.com/c/word2vec-nlp-tutorial/data)
+
+---
+
 ### :postal_horn: Keras
 
 Code Credits: [Keras Team](https://github.com/keras-team/keras/blob/master/examples/imdb_lstm.py)
