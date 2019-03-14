@@ -9,6 +9,11 @@
 
 ## Notebooks
 
+- [Vision](#vision)
+- [NLP](#nlp)
+- [Federated Learning](#federated-learning)
+
+
 # Vision
 
 |:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fire: PyTorch|:zap: Fastai|:fountain: TF|:tada: Demos|
