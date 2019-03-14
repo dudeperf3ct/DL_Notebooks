@@ -9,6 +9,7 @@
 
 ## Notebooks
 
+# Vision
 
 |:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fire: PyTorch|:zap: Fastai|:fountain: TF|:tada: Demos|
 | ------------- | ------------- |------------- |------------- | ------------- |------------- |------------- |
@@ -18,5 +19,23 @@
 |:hammer:Visualizing CNN|[Introduction to Visualizing CNN](https://dudeperf3ct.github.io/visualize/cnn/catsvsdogs/2018/12/02/Power-of-Visualizing-Convolution-Neural-Networks/)|[vis_cnn_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Vis%20CNN/vis_cnn_keras.ipynb)|-|[vis_cnn_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Vis%20CNN/vis_cnn_fastai.ipynb)|-|-|
 |:bridge_at_night:Style Transfer|[Introduction to Style Transfer](https://dudeperf3ct.github.io/style/transfer/2018/12/23/Magic-of-Style-Transfer/)|[style_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Style%20Transfer/style_transfer_keras.ipynb)|[style_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Style%20Transfer/style_transfer_pytorch.ipynb)|[style_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Style%20Transfer/style_transfer_fastai.ipynb)|[style_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Style%20Transfer/style_transfer_tensorflow.ipynb)|-|
 |:bulb:Object Detection|[Introduction to Object Detection]()|[detect_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Object%20Detection/Keras/object_detection_keras.ipynb)|[detect_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Object%20Detection/PyTorch/object_detection_pytorch.ipynb)|[detect_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Object%20Detection/Fastai/object_detection_fastai.ipynb)|[detect_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Object%20Detection/Tensorflow/object_detection_tensorflow.ipynb)|[detect_demos](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Object%20Detection/Demos/)|
+
+---
+
+# NLP
+
+|:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fire: PyTorch|:zap: Fastai|:space_invader: Flair|:tada: Demos|
+| ------------- | ------------- |------------- |------------- | ------------- |------------- |------------- |
 |:arrows_counterclockwise:Recurrent Neural Networks|[Introduction to RNN](https://dudeperf3ct.github.io/rnn/2019/01/19/Force-of-Recurrent-Neural-Networks/)|[char_rnn_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/RNN/char_rnn_keras.ipynb)|[char_rnn_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/RNN/char_rnn_pytorch.ipynb)|[char_rnn_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/RNN/char_rnn_fastai.ipynb)||-|
 |:dizzy:LSTM and GRU|[Introduction to LSTM and GRU](https://dudeperf3ct.github.io/lstm/gru/nlp/2019/01/28/Force-of-LSTM-and-GRU/)|[lstm_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/lstm_and_gru/lstm_and_gru_keras.ipynb)|[lstm_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/lstm_and_gru/lstm_and_gru_pytorch.ipynb)|[lstm_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/lstm_and_gru/lstm_and_gru_fastai.ipynb)|[lstm_flair](https://github.com/dudeperf3ct/DL_notebooks/blob/master/lstm_and_gru/lstm_and_gru_flair.ipynb)|-|
+
+---
+
+
+# Federated Learning
+
+|:page_with_curl: Topics|:pencil2: Blog|:fountain: TF|:fire: PyTorch|
+| ------------- | ------------- |------------- |------------- |
+|🤫Federated Learning and Privacy|[Federated Learning and Privacy]()|[fl_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Federated%20Learning/federated_learning_tensorflow.ipynb)|[fl_pysyft](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Federated%20Learning/federated_learning_pysyft.ipynb)|
+
+---
