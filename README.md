@@ -41,6 +41,6 @@
 
 |:page_with_curl: Topics|:pencil2: Blog|:fountain: TF|:fire: PyTorch + ⛏️ PySyft|
 | ------------- | ------------- |------------- |------------- |
-|🤫Federated Learning and Privacy|[Federated Learning and Privacy]()|[fl_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Federated%20Learning/federated_learning_tensorflow.ipynb)|[fl_pysyft](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Federated%20Learning/federated_learning_pysyft.ipynb)|
+|🤫Federated Learning and Privacy|[Federated Learning and Privacy](https://dudeperf3ct.github.io/federated/learning/privacy/2019/02/08/Federated-Learning-and-Privacy/)|[fl_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Federated%20Learning/federated_learning_tensorflow.ipynb)|[fl_pysyft](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Federated%20Learning/federated_learning_pysyft.ipynb)|
 
 ---
