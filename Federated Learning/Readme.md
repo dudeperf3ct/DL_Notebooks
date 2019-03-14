@@ -9,6 +9,7 @@
 ### :cookie: Dataset 
 
 [MNIST](http://yann.lecun.com/exdb/mnist/)
+
 [EMNIST](https://github.com/TalwalkarLab/leaf)
 
 ---
