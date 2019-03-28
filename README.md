@@ -29,10 +29,11 @@
 
 # NLP
 
-|:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fire: PyTorch|:zap: Fastai|:space_invader: Flair|:tada: Demos|
+|:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fire: PyTorch|:zap: Fastai|:space_invader: Flair|:trident: AllenNLP|
 | ------------- | ------------- |------------- |------------- | ------------- |------------- |------------- |
 |:arrows_counterclockwise:Recurrent Neural Networks|[Introduction to RNN](https://dudeperf3ct.github.io/rnn/2019/01/19/Force-of-Recurrent-Neural-Networks/)|[char_rnn_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/RNN/char_rnn_keras.ipynb)|[char_rnn_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/RNN/char_rnn_pytorch.ipynb)|[char_rnn_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/RNN/char_rnn_fastai.ipynb)||-|
 |:dizzy:LSTM and GRU|[Introduction to LSTM and GRU](https://dudeperf3ct.github.io/lstm/gru/nlp/2019/01/28/Force-of-LSTM-and-GRU/)|[lstm_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/lstm_and_gru/lstm_and_gru_keras.ipynb)|[lstm_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/lstm_and_gru/lstm_and_gru_pytorch.ipynb)|[lstm_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/lstm_and_gru/lstm_and_gru_fastai.ipynb)|[lstm_flair](https://github.com/dudeperf3ct/DL_notebooks/blob/master/lstm_and_gru/lstm_and_gru_flair.ipynb)|-|
+|:arrows_counterclockwise:Transfer Learning in NLP|[Power of Transfer Learning in NLP]()|[tl_nlp_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/tl_nlp/tl_nlp_keras.ipynb)|[tl_nlp_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/tl_nlp/tl_nlp_pytorch.ipynb)|[tl_nlp_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/tl_nlp/tl_nlp_fastai.ipynb)|[tl_nlp_flair](https://github.com/dudeperf3ct/DL_notebooks/blob/master/tl_nlp/tl_nlp_flair.ipynb)|[tl_nlp_allennlp](https://github.com/dudeperf3ct/DL_notebooks/blob/master/tl_nlp/tl_nlp_allennlp.ipynb)|
 
 ---
 
