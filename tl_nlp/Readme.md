@@ -21,6 +21,11 @@
 [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
 ---
+### :cookie: Dataset 
+
+[Tweets Sentiment US Airline](https://www.kaggle.com/crowdflower/twitter-airline-sentiment/)
+
+---
 
 ### :postal_horn: Keras
 
