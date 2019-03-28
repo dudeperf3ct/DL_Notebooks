@@ -4,7 +4,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dudeperf3ct/DL_notebooks/master)
 
 - [Blog](http://dudeperf3ct.github.io/)
-- Implementations of different topics in 4 different frameworks(*almost*) along with demos(*some*)
+- Implementations of different topics in 7 different frameworks(*almost*) along with demos(*some*)
 
 
 ## Notebooks
