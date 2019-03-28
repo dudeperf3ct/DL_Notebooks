@@ -31,9 +31,9 @@
 
 Implementation: [BERT](https://arxiv.org/pdf/1810.04805.pdf)
 
-Code Credits: [Google-BERT](https://github.com/google-research/bert/blob/master/run_classifier.py)
+Code Credits: [Google-Research](https://github.com/google-research/bert/blob/master/run_classifier.py)
 
-Pretrained Model : [Google-BERT](https://github.com/google-research/bert#pre-trained-models)
+Pretrained Model : [Google-Research](https://github.com/google-research/bert#pre-trained-models)
 
 
 Results:
