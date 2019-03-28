@@ -131,7 +131,7 @@ positive   tp: 199 - fp: 103 - fn: 23 - tn: 1139 - precision: 0.6589 - recall: 0
 
 ---
 
-### :zap: AllenNLP
+### :trident: AllenNLP
 
 Implementation: [ELMo](https://arxiv.org/pdf/1802.05365.pdf) and [BERT](https://arxiv.org/pdf/1810.04805.pdf)
 
