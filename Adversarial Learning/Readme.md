@@ -2,7 +2,7 @@
 
 ### :pencil2: Blog 
 
-[Mystery of Adversarial Learning]()
+[Mystery of Adversarial Learning](https://dudeperf3ct.github.io/adversarial/learning/2019/03/04/Mystery-of-Adversarial-Learning/)
 
 ---
 
