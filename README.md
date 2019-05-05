@@ -12,6 +12,7 @@
 - [Vision](#vision)
 - [NLP](#nlp)
 - [Federated Learning](#federated-learning)
+- [Adversarial Learning](#adversarial-learning)
 
 
 # Vision
@@ -40,8 +41,16 @@
 
 # Federated Learning
 
-|:page_with_curl: Topics|:pencil2: Blog|:fountain: TF|:fire: PyTorch + ⛏️ PySyft|
+|:page_with_curl: Topics|:pencil2: Blog|:fountain: TF|:fire: PyTorch|
 | ------------- | ------------- |------------- |------------- |
 |🤫Federated Learning and Privacy|[Federated Learning and Privacy](https://dudeperf3ct.github.io/federated/learning/privacy/2019/02/08/Federated-Learning-and-Privacy/)|[fl_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Federated%20Learning/federated_learning_tensorflow.ipynb)|[fl_pysyft](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Federated%20Learning/federated_learning_pysyft.ipynb)|
+
+---
+
+# Adversarial Learning
+
+|:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fountain: TF|:fire: PyTorch|
+| ------------- | ------------- |------------- |------------- |------------- |
+|:trollface:Adversarial Learning|[Adversarial Learning]()|[adv_learning_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_keras.ipynb)|[adv_learning_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_tf.ipynb)|[adv_learning_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_pytorch.ipynb)|
 
 ---
