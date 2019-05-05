@@ -51,6 +51,6 @@
 
 |:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fountain: TF|:fire: PyTorch|
 | ------------- | ------------- |------------- |------------- |------------- |
-|:trollface:Adversarial Learning|[Adversarial Learning]()|[adv_learning_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_keras.ipynb)|[adv_learning_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_tf.ipynb)|[adv_learning_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_pytorch.ipynb)|
+|:trollface:Adversarial Learning|[Adversarial Learning](https://dudeperf3ct.github.io/adversarial/learning/2019/03/04/Mystery-of-Adversarial-Learning/)|[adv_learning_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_keras.ipynb)|[adv_learning_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_tf.ipynb)|[adv_learning_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_pytorch.ipynb)|
 
 ---
