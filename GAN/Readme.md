@@ -2,7 +2,7 @@
 
 ### :pencil2: Blog 
 
-[Power of GANs]()
+[Power of GAN](https://dudeperf3ct.github.io/gan/2019/04/13/Power-of-GAN/)
 
 ---
 
