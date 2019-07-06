@@ -12,8 +12,6 @@
 - [Vision](#vision)
 - [NLP](#nlp)
 - [Federated Learning](#federated-learning)
-- [Adversarial Learning](#adversarial-learning)
-
 
 # Vision
 
@@ -25,6 +23,7 @@
 |:hammer:Visualizing CNN|[Introduction to Visualizing CNN](https://dudeperf3ct.github.io/visualize/cnn/catsvsdogs/2018/12/02/Power-of-Visualizing-Convolution-Neural-Networks/)|[vis_cnn_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Vis%20CNN/vis_cnn_keras.ipynb)|-|[vis_cnn_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Vis%20CNN/vis_cnn_fastai.ipynb)|-|-|
 |:bridge_at_night:Style Transfer|[Introduction to Style Transfer](https://dudeperf3ct.github.io/style/transfer/2018/12/23/Magic-of-Style-Transfer/)|[style_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Style%20Transfer/style_transfer_keras.ipynb)|[style_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Style%20Transfer/style_transfer_pytorch.ipynb)|[style_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Style%20Transfer/style_transfer_fastai.ipynb)|[style_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Style%20Transfer/style_transfer_tensorflow.ipynb)|-|
 |:bulb:Object Detection|[Introduction to Object Detection]()|[detect_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Object%20Detection/Keras/object_detection_keras.ipynb)|[detect_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Object%20Detection/PyTorch/object_detection_pytorch.ipynb)|[detect_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Object%20Detection/Fastai/object_detection_fastai.ipynb)|[detect_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Object%20Detection/Tensorflow/object_detection_tensorflow.ipynb)|[detect_demos](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Object%20Detection/Demos/)|
+|:trollface:Adversarial Learning|[Adversarial Learning](https://dudeperf3ct.github.io/adversarial/learning/2019/03/04/Mystery-of-Adversarial-Learning/)|[adv_learning_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_keras.ipynb)|[adv_learning_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_pytorch.ipynb)|-|[adv_learning_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_tf.ipynb)|-|
 |:volcano:Generative Adversarial Networks|[Introduction to GAN](https://dudeperf3ct.github.io/gan/2019/04/13/Power-of-GAN/)|[gan_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/GAN/gan_keras.ipynb)|[gan_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/GAN/gan_pytorch.ipynb)|[gan_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/GAN/gan_fastai.ipynb)|-|-|
 |:cactus:Siamese Networks|[Siamese Networks](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Siamese/Siamese_MNIST_keras.ipynb)|[siamese_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Siamese/Siamese_MNIST_keras.ipynb)|-|[siamese_fastai](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Siamese/Siamese_MNIST_fastai.ipynb)|-|-|
 
@@ -46,13 +45,5 @@
 |:page_with_curl: Topics|:pencil2: Blog|:fountain: TF|:fire: PyTorch|
 | ------------- | ------------- |------------- |------------- |
 |🤫Federated Learning and Privacy|[Federated Learning and Privacy](https://dudeperf3ct.github.io/federated/learning/privacy/2019/02/08/Federated-Learning-and-Privacy/)|[fl_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Federated%20Learning/federated_learning_tensorflow.ipynb)|[fl_pysyft](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Federated%20Learning/federated_learning_pysyft.ipynb)|
-
----
-
-# Adversarial Learning
-
-|:page_with_curl: Topics|:pencil2: Blog|:postal_horn: Keras|:fountain: TF|:fire: PyTorch|
-| ------------- | ------------- |------------- |------------- |------------- |
-|:trollface:Adversarial Learning|[Adversarial Learning](https://dudeperf3ct.github.io/adversarial/learning/2019/03/04/Mystery-of-Adversarial-Learning/)|[adv_learning_keras](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_keras.ipynb)|[adv_learning_tf](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_tf.ipynb)|[adv_learning_pytorch](https://github.com/dudeperf3ct/DL_notebooks/blob/master/Adversarial%20Learning/adv_learning_pytorch.ipynb)|
 
 ---
