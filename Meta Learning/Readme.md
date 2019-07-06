@@ -14,13 +14,7 @@
 
 ### :fire: PyTorch
 
-Code Credits: 
-
-[wyharveychen](https://github.com/wyharveychen/CloserLookFewShot)
-
-[katerakelly](https://github.com/katerakelly/pytorch-maml)
-
-[dragen1860](https://github.com/dragen1860/MAML-Pytorch)
+Code Credits: [wyharveychen](https://github.com/wyharveychen/CloserLookFewShot), [katerakelly](https://github.com/katerakelly/pytorch-maml) and [dragen1860](https://github.com/dragen1860/MAML-Pytorch)
 
 ---
 
