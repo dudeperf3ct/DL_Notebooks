@@ -7,7 +7,7 @@
 - Implementations of different topics in 7 different frameworks(*almost*) along with demos(*some*)
 
 
-## Notebooks
+## Deep Learning Notebooks
 
 - [Vision](#vision)
 - [NLP](#nlp)
